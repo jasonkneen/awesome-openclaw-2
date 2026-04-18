@@ -34,6 +34,12 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - 🎖️ Официальный ресурс, поддерживаемый OpenClaw (репозиторий организации, официальная документация или каналы).
 - 💵 Для полного использования часто требуется платный сервис/тариф.
 
+## Примечание по безопасности
+
+Плагины, навыки, MCP-серверы и интеграции сообщества могут выполнять код, работать с учетными данными, отправлять сообщения и получать доступ к внешним системам. По умолчанию считайте их недоверенными.
+
+Только записи с `🎖️` являются официальными ресурсами, поддерживаемыми OpenClaw. Записи сообщества добавлены для discovery, а не как результат проверки безопасности или официальной рекомендации. Перед использованием проверьте исходный код, разрешения, шаги установки и статус поддержки.
+
 ---
 
 <a id="community-channels"></a>
@@ -92,6 +98,8 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 
 ## Навыки и индексы
 
+Большинство записей ниже поддерживаются сообществом и не проверяются OpenClaw. Только записи с `🎖️` являются официальными.
+
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Библиотека навыков сообщества с фокусом на автоматизацию и финансы. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
 - [clawdbot/skills](https://github.com/openclaw/skills) - Устаревший alias-путь к историческому архиву навыков. ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Пакеты навыков агента и переиспользуемые расширения рабочих процессов. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
@@ -106,6 +114,8 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 <a id="plugins-and-integrations"></a>
 
 ## Плагины и интеграции
+
+Большинство записей ниже поддерживаются сообществом и не проверяются OpenClaw. Только записи с `🎖️` являются официальными.
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - Плагин корпоративного мессенджинга WeCom (WeChat Work). ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Плагин интеграции Feishu/Lark с упрощенным self-hosted сетапом. ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)

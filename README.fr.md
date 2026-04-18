@@ -34,6 +34,12 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - 🎖️ Ressource officielle maintenue par OpenClaw (repo d’organisation, docs officielles ou canaux officiels).
 - 💵 Peut nécessiter un service ou un plan payant pour un usage complet.
 
+## Note de sécurité
+
+Les plugins, skills, serveurs MCP et integrations de la communaute peuvent executer du code, manipuler des identifiants, envoyer des messages ou acceder a des systemes externes. Traitez-les comme non fiables par defaut.
+
+Seules les entrees marquees `🎖️` sont des ressources officielles maintenues par OpenClaw. Les entrees de la communaute sont listees pour la decouverte, pas comme revue de securite ni comme approbation officielle. Verifiez le code source, les permissions, les etapes d'installation et l'etat de maintenance avant utilisation.
+
 ---
 
 <a id="community-channels"></a>
@@ -92,6 +98,8 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 
 ## Skills et index
 
+La plupart des entrees ci-dessous sont maintenues par la communaute et ne sont pas validees par OpenClaw. Seules les entrees `🎖️` sont officielles.
+
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Bibliotheque communautaire de skills axee sur l'automatisation et la finance. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
 - [clawdbot/skills](https://github.com/openclaw/skills) - Chemin alias historique vers l archive de skills. ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Packs de skills d'agent et extensions de workflow reutilisables. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
@@ -106,6 +114,8 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 <a id="plugins-and-integrations"></a>
 
 ## Plugins et intégrations
+
+La plupart des entrees ci-dessous sont maintenues par la communaute et ne sont pas validees par OpenClaw. Seules les entrees `🎖️` sont officielles.
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - Plugin de messagerie entreprise WeCom (WeChat Work). ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Plugin d integration Feishu/Lark avec setup self-hosted simplifie. ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
