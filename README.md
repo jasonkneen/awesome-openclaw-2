@@ -78,6 +78,7 @@ Only entries marked with `🎖️` are official OpenClaw-maintained resources. C
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - Community collection of production-ready OpenClaw agent templates for PM, writing, SEO, DevOps, and more. ![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
+- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - Curated collection of production-ready OpenClaw persona packages with SOUL.md, AGENTS.md, and SKILL.md configurations. ![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 ## Skills and Skill Indexes

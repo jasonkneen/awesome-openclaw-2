@@ -89,6 +89,7 @@ Seules les entrees marquees `🎖️` sont des ressources officielles maintenues
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Patrons d usage reels et exemples par domaine. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - Collection communautaire de templates d agents OpenClaw prêts pour la production pour PM, redaction, SEO, DevOps et plus encore. ![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
+- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - Collection curée de packages de persona OpenClaw prêts pour la production avec configurations SOUL.md, AGENTS.md et SKILL.md. ![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Grand index communautaire de skills OpenClaw (avec contexte de renommage). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
